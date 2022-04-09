@@ -12,7 +12,7 @@
   "dependencies": {
     "@react-native-community/toolbar-android": "^0.1.0-rc.2",
     "axios": "^0.19.2",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "react": "^16.13.0",
     "react-native": "0.62.0",
     "react-native-datepicker": "^1.7.2",
